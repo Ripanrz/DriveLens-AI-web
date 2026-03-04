@@ -89,4 +89,5 @@ const result = (await client.predict("/cari_wajah", [
         
       </div>
     </main>
-  )}
+  )
+}
